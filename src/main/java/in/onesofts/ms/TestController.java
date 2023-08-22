@@ -8,6 +8,6 @@ public class TestController {
 
 	@GetMapping("/msg")
 	public String message() {
-		return "show something";
+		return "show something more now";
 	}
 }
